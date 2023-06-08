@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T14:16:59.923Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="20.5.3" etag="_jFykfXTmWLA68zvH79e" type="github"><diagram id="kBDjjZQh9CMu-Nug-tBj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-06-08T02:30:54.042Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="wLpbTmXW_HPrAMMxM2V7" version="20.5.3" type="github">
+  <diagram id="kBDjjZQh9CMu-Nug-tBj" name="第 1 页">
+    <mxGraphModel dx="881" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="W08OJon23ob4f7Ashb1d-1" value="Java线程" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="50" y="155" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W08OJon23ob4f7Ashb1d-2" value="工作内存" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="240" y="155" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W08OJon23ob4f7Ashb1d-3" value="Java线程" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="50" y="340" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W08OJon23ob4f7Ashb1d-4" value="工作内存" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="240" y="335" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W08OJon23ob4f7Ashb1d-5" value="Java线程" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="50" y="255" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W08OJon23ob4f7Ashb1d-6" value="工作内存" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="240" y="250" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="W08OJon23ob4f7Ashb1d-7" value="Save&lt;br&gt;和&lt;br&gt;Load&lt;br&gt;操作" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="440" y="155" width="120" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="W08OJon23ob4f7Ashb1d-8" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="140" y="179.63999999999987" as="sourcePoint" />
+            <mxPoint x="230.00000000000023" y="179.63999999999987" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W08OJon23ob4f7Ashb1d-9" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="140" y="274.6399999999999" as="sourcePoint" />
+            <mxPoint x="230.00000000000023" y="274.6399999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W08OJon23ob4f7Ashb1d-10" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="140" y="359.6399999999999" as="sourcePoint" />
+            <mxPoint x="230.00000000000023" y="359.6399999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W08OJon23ob4f7Ashb1d-11" value="主内存" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="650" y="235" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W08OJon23ob4f7Ashb1d-12" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="560" y="274.6399999999999" as="sourcePoint" />
+            <mxPoint x="650" y="274.6399999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W08OJon23ob4f7Ashb1d-13" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="340.0000000000002" y="179.63999999999987" as="sourcePoint" />
+            <mxPoint x="430.0000000000002" y="179.63999999999987" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W08OJon23ob4f7Ashb1d-14" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="340.0000000000002" y="274.6399999999999" as="sourcePoint" />
+            <mxPoint x="430.0000000000002" y="274.6399999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W08OJon23ob4f7Ashb1d-15" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="340.0000000000002" y="359.6399999999999" as="sourcePoint" />
+            <mxPoint x="430.0000000000002" y="359.6399999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W08OJon23ob4f7Ashb1d-16" value="Java内存模型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="50" y="80" width="160" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
